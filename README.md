@@ -17,8 +17,8 @@ Email Client is a Java-based application that allows users to manage recipients,
 3. Run the Email_Client main class to start the application.
 
 4. Use the following options to interact with the Email Client:
-  1. Add a new recipient by providing recipient details in the specified format.
-  2. Compose and send an email by entering the recipient's email address, subject, and content.
-  3. Check recipients who have birthdays on a specific date.
-  4. View details of emails sent on a specific date.
-  5. Display the total number of recipients in the Email Client.
+  - Add a new recipient by providing recipient details in the specified format.
+  - Compose and send an email by entering the recipient's email address, subject, and content.
+  - Check recipients who have birthdays on a specific date.
+  - View details of emails sent on a specific date.
+  - Display the total number of recipients in the Email Client.
